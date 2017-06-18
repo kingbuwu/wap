@@ -1,0 +1,54 @@
+<view class="container-top">
+   <image src="/pages/images/1.jpg"></image>
+</view>
+<view class="search-box">
+    <view class="search-icon">
+        <image src="/pages/images/2.png"></image>
+    </view>
+    <input class="search-input"  placeholder="请输入关键词如：开关、电气" />
+    <text class="search-btn">搜索</text>
+</view>
+<view class="classify-f1">
+    <view class="classify-f1-title">
+       <text>1F 三丰度硬度计</text>
+    </view>
+    <view class="item-f1">
+       <text>810系列--自动读数硬度测量系统</text>
+       <image src="/pages/images/arrows.png"></image>
+    </view>
+    <view class="item-f1">
+       <text>810系列--水力布氏硬度试验机</text>
+       <image src="/pages/images/arrows.png"></image>
+    </view>
+    <view class="item-f1">
+       <text>810系列--肖氏硬度试验机</text>
+       <image src="/pages/images/arrows.png"></image>
+    </view>
+    <view class="item-f1">
+       <text>810系列--洛氏/洛氏表面硬度试验机</text>
+       <image src="/pages/images/arrows.png"></image>
+    </view>
+    <view class="item-f1">
+       <text>810系列--小负荷维氏硬度实验机</text>
+       <image src="/pages/images/arrows.png"></image>
+    </view>
+    <view class="item-f1">
+       <text>810系列--小负荷维氏硬度实验机</text>
+       <image src="/pages/images/arrows.png"></image>
+    </view>
+     <view class="classify-f1-title">
+       <text>2F 三丰投影仪</text>
+    </view>
+    <view class="item-f1">
+       <text>810系列--投影仪</text>
+       <image src="/pages/images/arrows.png"></image>
+    </view>
+    <view class="item-f1">
+       <text>810系列--投影仪</text>
+       <image src="/pages/images/arrows.png"></image>
+    </view>
+    <view class="item-f1">
+       <text>810系列--投影仪</text>
+       <image src="/pages/images/arrows.png"></image>
+    </view>
+</view>

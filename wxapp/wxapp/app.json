@@ -1,0 +1,49 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/service/service",
+    "pages/call/call",
+    "pages/index/index",
+    "pages/classify/classify",
+    "pages/service/service"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#000000",
+    "navigationBarTitleText": "东莞市三量五金模具",
+    "backgroundColor": "#eeeeee",
+    "navigationBarTextStyle":"white"
+  },
+  "tabBar": {
+    "color": "#9C9C9C",
+    "selectedColor": "#ED715D",
+    "borderStyle": "white",
+    "list": [
+      {
+        "selectedIconPath": "/pages/images/5.png",
+        "iconPath": "/pages/images/6.png",
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "selectedIconPath": "/pages/images/8.png",
+        "iconPath": "/pages/images/7.png",
+        "pagePath": "pages/classify/classify",
+        "text": "分类"
+      },
+      {
+        "selectedIconPath": "/pages/images/10.png",
+        "iconPath": "/pages/images/9.png",
+        "pagePath": "pages/service/service",
+        "text": "在线客服"
+      },
+      {
+        "selectedIconPath": "/pages/images/12.png",
+        "iconPath": "/pages/images/11.png",
+        "pagePath": "pages/call/call",
+        "text": "联系我们"
+      }
+    ]
+  }
+  
+}

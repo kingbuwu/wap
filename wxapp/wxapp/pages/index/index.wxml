@@ -1,0 +1,106 @@
+<!--index.wxml-->
+<view class="container-top">
+   <image src="/pages/images/1.jpg"></image>
+</view>
+<swiper indicator-dots="true" autoplay="true">
+    <swiper-item>
+      <image src="/pages/images/banner1.jpg"/>
+    </swiper-item>
+    <swiper-item>
+      <image  src="/pages/images/banner2.jpg" />
+    </swiper-item>
+</swiper>
+<view class="search-box">
+    <view class="search-icon">
+        <image src="/pages/images/2.png"></image>
+    </view>
+    <input class="search-input"  placeholder="请输入关键词如：开关、电气" />
+    <text class="search-btn">搜索</text>
+</view>
+<view class="classify-box">
+    <view class="classify-title">
+       <text>1F 三丰硬度计</text>
+    </view>
+    <view class="classify-container">
+       <view class="classify-item">
+            <view class="item-container">
+               <image class="item-container-img" src="/pages/images/3.jpg"></image>
+               <text class="item-container-text">810系列--小负荷维氏硬...</text>
+               <view class="item-container-footer">
+                   <text>¥810</text>
+                   <image src="/pages/images/shop.png"></image>
+               </view>
+            </view>
+            <view class="item-container">
+               <image class="item-container-img" src="/pages/images/4.jpg"></image>
+               <text class="item-container-text">810系列--肖氏硬度试...</text>
+               <view class="item-container-footer">
+                   <text>¥810</text>
+                   <image src="/pages/images/shop.png"></image>
+               </view>
+            </view>
+       </view>
+       <view class="classify-item">
+            <view class="item-container">
+               <image class="item-container-img" src="/pages/images/3.jpg"></image>
+               <text class="item-container-text">810系列--小负荷维氏硬...</text>
+               <view class="item-container-footer">
+                   <text>¥810</text>
+                   <image src="/pages/images/shop.png"></image>
+               </view>
+            </view>
+            <view class="item-container">
+               <image class="item-container-img" src="/pages/images/4.jpg"></image>
+               <text class="item-container-text">810系列--肖氏硬度试...</text>
+               <view class="item-container-footer">
+                   <text>¥810</text>
+                   <image src="/pages/images/shop.png"></image>
+               </view>
+            </view>
+       </view>
+    </view>
+</view>
+<view class="title-nav"></view>
+<view class="classify-box">
+    <view class="classify-title">
+       <text>2F 三丰投影仪</text>
+    </view>
+    <view class="classify-container">
+       <view class="classify-item">
+            <view class="item-container">
+               <image class="item-container-img" src="/pages/images/3.jpg"></image>
+               <text class="item-container-text">305系列--投影仪</text>
+               <view class="item-container-footer">
+                   <text>¥810</text>
+                   <image src="/pages/images/shop.png"></image>
+               </view>
+            </view>
+            <view class="item-container">
+               <image class="item-container-img" src="/pages/images/4.jpg"></image>
+               <text class="item-container-text">810系列--投影仪</text>
+               <view class="item-container-footer">
+                   <text>¥810</text>
+                   <image src="/pages/images/shop.png"></image>
+               </view>
+            </view>
+       </view>
+       <view class="classify-item">
+            <view class="item-container">
+               <image class="item-container-img" src="/pages/images/3.jpg"></image>
+               <text class="item-container-text">810系列--投影仪</text>
+               <view class="item-container-footer">
+                   <text>¥810</text>
+                   <image src="/pages/images/shop.png"></image>
+               </view>
+            </view>
+            <view class="item-container">
+               <image class="item-container-img" src="/pages/images/4.jpg"></image>
+               <text class="item-container-text">810系列--投影仪</text>
+               <view class="item-container-footer">
+                   <text>¥810</text>
+                   <image src="/pages/images/shop.png"></image>
+               </view>
+            </view>
+       </view>
+    </view>
+</view>

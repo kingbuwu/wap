@@ -1,0 +1,9 @@
+<view class="container-top">
+   <image src="/pages/images/1.jpg"></image>
+</view>
+<!-- map.wxml -->
+<map id="map" longitude="113.324520" latitude="23.099994" scale="14" controls="{{controls}}" bindcontroltap="controltap" markers="{{markers}}" bindmarkertap="markertap" polyline="{{polyline}}" bindregionchange="regionchange" show-location style="width: 100%; height: 300px;">
+</map>
+<view class="map-text">
+      <text></text>东莞市三量五金模具有限公司是香港機逹有限公司的国内销售点。于2004年成立，是一家专门经销世界各地优质品牌的代理商。自本公司成立以来，凭着热诚及亲切的服务态度，品质的保证，合理的价格，已成功获得广大客户认同，并取得各客户之宝贵意见后，得知良好的售后服务和快捷的送货速度也为重要，因此本公司会以此作为承诺，并保证会以最大努力吧承诺长远维持。
+</view>
