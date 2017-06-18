@@ -3,17 +3,16 @@
     "pages/index/index",
     "pages/service/service",
     "pages/call/call",
-    "pages/index/index",
-    "pages/classify/classify",
-    "pages/service/service"
+    "pages/classify/classify"
   ],
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#000000",
     "navigationBarTitleText": "东莞市三量五金模具",
-    "backgroundColor": "#eeeeee",
     "navigationBarTextStyle":"white"
   },
+  "debug":["true"
+  ],
   "tabBar": {
     "color": "#9C9C9C",
     "selectedColor": "#ED715D",

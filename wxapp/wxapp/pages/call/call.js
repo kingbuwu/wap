@@ -21,17 +21,17 @@ Page({
     //   width: 2,
     //   dottedLine: true
     // }],
-    controls: [{
-      id: 1,
-      iconPath: '/pages/images/map.png',
-      position: {
-        left: 10,
-        top: 300 - 50,
-        width: 15,
-        height: 30
-      },
-      clickable: true
-    }]
+  //   controls: [{
+  //     id: 1,
+  //     iconPath: '/pages/images/map.png',
+  //     position: {
+  //       left: 10,
+  //       top: 300 - 50,
+  //       width: 15,
+  //       height: 30
+  //     },
+  //     clickable: true
+  //   }]
   },
  
   regionchange(e) {
